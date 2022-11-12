@@ -19,9 +19,3 @@
 
   
 - ## [Demo Link](https://sorts-algo-visualizer.netlify.app/) 
-
-<hr>
-Collaboration -                                                                                               
--## [Deon Gracius](https://github.com/deon-gracias)
-                                       
-<hr>
