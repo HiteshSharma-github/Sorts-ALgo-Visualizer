@@ -18,7 +18,7 @@
  
 
   
-- ## [Demo Link](https://rgtechno.github.io/Sorting_Visualizer/) 
+- ## [Demo Link](https://sorts-algo-visualizer.netlify.app/) 
 
 <hr>
 
